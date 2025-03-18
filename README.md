@@ -8,8 +8,7 @@ A simple, responsive calculator built with **HTML**, **CSS**, and **JavaScript**
 
 ## ✨ Features
 - Perform basic math operations (Add, Subtract, Multiply, Divide)
-- Clear/reset functionality![Screenshot 2025-03-18 163415](https://github.com/user-attachments/assets/9fa1ed7d-fdd4-4333-9b77-6d26ede1ece9)
-
+- Clear/reset functionality
 - User-friendly and responsive UI
 - Real-time input display
 - Lightweight and fast
