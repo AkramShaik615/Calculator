@@ -1,3 +1,41 @@
-# Calculator
-A responsive calculator built using HTML, CSS (with Bootstrap for styling), and JavaScript. 
-It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The design is user-friendly, featuring large buttons, clear input fields, and a result display for quick calculations.
+# 🧮 Calculator
+
+A simple, responsive calculator built with **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations and is great for learning front-end fundamentals.
+
+## 📸 Demo
+[Live Demo](https://akramshaik615.github.io/Calculator/) 
+---
+
+## ✨ Features
+- Perform basic math operations (Add, Subtract, Multiply, Divide)
+- Clear/reset functionality![Screenshot 2025-03-18 163415](https://github.com/user-attachments/assets/9fa1ed7d-fdd4-4333-9b77-6d26ede1ece9)
+
+- User-friendly and responsive UI
+- Real-time input display
+- Lightweight and fast
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3** (Flexbox Layout)
+- **Vanilla JavaScript**
+
+---
+
+## 🚀 How to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://akramshaik615.github.io/Calculator/.git
+   
+🎯 Screenshots
+![Screenshot 2025-03-18 163415](https://github.com/user-attachments/assets/c6286f84-7de9-46c5-8bb1-3d969510f40d)
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🙌 Contribution
+Pull requests are welcome! If you find bugs or have suggestions for improvement, feel free to fork this repo and submit a PR.
+
+🤝 Connect
+Feel free to connect with me on LinkedIn or check out more projects on my GitHub.
